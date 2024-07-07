@@ -7,7 +7,7 @@ Github scripts used to fetch data: [https://github.com/fcakyon/midv500](https://
 
 See the folder structure in directory_structure.json (use [https://jsonviewer.stack.hu/](https://jsonviewer.stack.hu/) for better visibility)
 
-### visit (use [https://midv500.farazakhtar.in](https://midv500.farazakhtar.in) to view dashboard for these tasks and solution. It also includes live demo.
+### visit (use [midv500.farazakhtar.in](https://midv500.farazakhtar.in) to view dashboard for these tasks and solution. It also includes live demo.
 
 ### Alternatively you can see just the report by going through this repo:
 
