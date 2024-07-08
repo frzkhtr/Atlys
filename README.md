@@ -15,6 +15,6 @@ See the folder structure in directory_structure.json (use [https://jsonviewer.st
 - read modelling report at modelling.md
 
 ### Notebook:
-1_downloader.ipynb --> To download the dataset
-2_main.ipynb --> cleaned notebook for data preparetion, modelling and validation
-dev.ipynb --> Initial notebook with all rough
+- 1_downloader.ipynb --> To download the dataset
+- 2_main.ipynb --> cleaned notebook for data preparetion, modelling and validation
+- dev.ipynb --> Initial notebook with all rough
