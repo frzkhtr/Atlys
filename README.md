@@ -12,3 +12,9 @@ See the folder structure in directory_structure.json (use [https://jsonviewer.st
 ### Alternatively you can see just the report by going through this repo:
 
 - Read Data Analysis report in eda.md
+- read modelling report at modelling.md
+
+### Notebook:
+1_downloader.ipynb --> To download the dataset
+2_main.ipynb --> cleaned notebook for data preparetion, modelling and validation
+dev.ipynb --> Initial notebook with all rough
